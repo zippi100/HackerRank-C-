@@ -1,4 +1,4 @@
-Magic Spells
+//Magic Spells
 #include <iostream>
 #include <vector>
 #include <string>
